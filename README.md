@@ -1,6 +1,9 @@
 # dsa_python
-**Arrays
-*Linked lists
-*queues
-*stacks
-*Hashings
+
+**Data structures:**
+
+* Arrays
+* Linked lists
+* Queues
+* Stacks
+* Hashings

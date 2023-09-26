@@ -1,2 +1,6 @@
 # dsa_python
-DSA in Python 
+Arrays
+Linked lists
+queues
+stacks
+Hashings

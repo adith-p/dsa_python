@@ -1,5 +1,5 @@
 # dsa_python
-Arrays
+--Arrays
 Linked lists
 queues
 stacks

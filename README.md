@@ -1,6 +1,6 @@
 # dsa_python
---Arrays
-Linked lists
-queues
-stacks
-Hashings
+*Arrays
+*Linked lists
+*queues
+*stacks
+*Hashings

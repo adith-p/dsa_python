@@ -6,4 +6,5 @@
 * Linked lists
 * Queues
 * Stacks
-* Hashings
+* Hash tables
+  
